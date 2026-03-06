@@ -1,3 +1,5 @@
+package Assignments;
+
 import java.util.Scanner;
 
 public class index {
@@ -22,4 +24,5 @@ public class index {
 	}
 
 }
+
 
